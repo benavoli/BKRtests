@@ -12,6 +12,7 @@ For usage, please refer to the tutorial notebooks
 
 ## How to cite
 If you are using `BKR` for your research, consider citing the following paper:
+
 ```
 @conference{Benavoli2021,
 title = { Bayesian Independence Test with Mixed-type Variables},
@@ -21,14 +22,6 @@ year = {2021},
 date = {2021-09-01},
 booktitle = {The 8th IEEE International
 Conference on Data Science and Advanced Analytics.
-Porto, Portugal},
-abstract = {We design a Bayesian kernelised correlation test using a Dirichlet process 
-model to assess (in)dependence between mixed-type variables (text, image, sound). 
-The new measure of (in)dependence allows us to answer whether (mixed-type) variables 
-are independent, how likely dependence/independence is to hold, how high the probability
-is that two mixed-type variables are more than just weakly dependent. We show the 
-properties of the approach and algorithms for fast computation. Empirical results
-indicate the effectiveness of the proposed method when compared to other frequentist 
-and Bayesian approaches on a range of datasets and tasks with mixed-type variables.},
+Porto, Portugal}
 }
 ```
