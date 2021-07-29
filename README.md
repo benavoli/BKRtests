@@ -12,7 +12,7 @@ For usage, please refer to the tutorial notebooks
 
 ## How to cite
 If you are using `BKR` for your research, consider citing the following paper:
-
+```
 @conference{Benavoli2021,
 title = { Bayesian Independence Test with Mixed-type Variables},
 author = {Benavoli, Alessio and de Campos, Cassio},
@@ -31,3 +31,4 @@ properties of the approach and algorithms for fast computation. Empirical result
 indicate the effectiveness of the proposed method when compared to other frequentist 
 and Bayesian approaches on a range of datasets and tasks with mixed-type variables.},
 }
+```
