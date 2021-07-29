@@ -1,6 +1,8 @@
 # BKRtests
 Bayesian Independence Test with Mixed-type Variables
 
+
+
 This code implements a Bayesian kernelised correlation test using a Dirichlet process model to 
 assess (in)dependence between mixed-type variables (text, image, sound).
 It introduces a new Bayesian measure of (in)dependence which allows us to answer whether (mixed-type) variables  are independent, 
